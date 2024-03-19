@@ -35,7 +35,7 @@ import seaborn as sns
 dt=pd.read_csv("titanic.csv")
 dt
 ```
-![Output](Op1-ds1.png)
+![Output](Op1-ds2.png)
 ```py
 dt.info()
 ```
